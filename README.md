@@ -1,6 +1,6 @@
 # Learning Management System [LMS]
 
-<img width="1887" height="954" alt="image" src="https://github.com/user-attachments/assets/7164a63c-9d01-480b-8a7f-812a76fd317e" />
+<img width="1887" height="954" alt="Screenshot 2026-03-31 145949" src="https://github.com/user-attachments/assets/2129d544-cdee-4d56-a360-853ac9daf67f" />
 
 A full-stack, production-ready Learning Management System built with **React**, **Node.js**, **MongoDB**, and **Cloudinary** — inspired by Udemy and Coursera.
 
